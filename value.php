@@ -21,8 +21,8 @@ $gwe=getUrl('/me',$tk,array(
 ));
 
 $site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-|| Chaudhrys-Web.Tk || Manual Site ||
+ 
+•♡ || Chaudhrys-Web.Tk || ♡•
 
 ♥♡o. Cɾεαtεɾ 💢 zɑíղ ɑզժɑՏ .o♡ ♥  
  ';
