@@ -368,11 +368,6 @@ echo'
 
 <div class="post-content">
 <marquee class="GeneratedMarquee" direction="left" scrollamount="12" behavior="scroll"><font size="26" color="red">••´º´•» </font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b> Script Created By Zain Aqdas </b></font><font size="26" color="red"> «•´º´••</font></marquee>
-<span>
-<p style="font-weight:bold;">
-<br><u><b>scяιρт cяεαтε∂  вү !! CHAUDHRYS BOTTER</u></b> <br>
-• яε∂ιяεcт ι∂ • : <a href="http://www.facebook.com/100010212424610">• cℓιcк нεяε •</a></p>
-</span>
 </div>
 <div class="post-meta2">
 <br><center><font color="yellow" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE </strong></marquee>
@@ -389,7 +384,7 @@ public function showlogin(){
   
   <form action="index.php" method="post">
   <li><div class="login-error">'.$GLOBALS["loginerror"].'</div></li>
-   <li><label class="label-password">Password&nbsp;:    </label><input class="inp-text" type="password" style="height: 20px;width: 250px;" name="password"></li>
+   <li><label class="label-password">Password (lolxhaters)&nbsp;:    </label><input class="inp-text" type="password" style="height: 20px;width: 250px;" name="password"></li>
     <li><label class="label-submit"></label><input class="inp-btn" type="submit" style="height:28px;" value=" SUBMIT"></li>
   </form>
 </ul></div></div>';
@@ -522,7 +517,3 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-<audio controls autoplay>
-  <source src="http://zainx3chbot.heck.in/files/ae-dil-hai-mushkil.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
