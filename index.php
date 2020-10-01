@@ -11,7 +11,7 @@ $users = array(
                "lolxhaters" => array("name" => "sohail", "role"=> "guest"),
                "lolxhaters" => array("name" => "awais", "role"=> "guest")
                );
-
+//password can be given empty then use xamp
 if(isset($_SESSION['logged']) && !isset($users[$_SESSION['password']]) || $users[$_SESSION['password']]['role'] == 'banned'){
       unset($_SESSION['logged']);
       unset($_SESSION['password']);
